@@ -1,6 +1,6 @@
 # irt-rpy
 
-基于Item Response Theory (irt) 项目反映理论，封装R语言的IRT库和python语言进行试题(item)参数估计、学生能力(theta)参数估计。
+基于Item Response Theory(irt)项目反应理论，封装R语言的IRT库进行试题(item)参数估计、能力(theta)参数估计。
 
 # 简介
 
